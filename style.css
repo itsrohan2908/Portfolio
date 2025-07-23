@@ -103,6 +103,11 @@ footer {
   padding: 15px;
 }
 
+#contact a{
+  color: #58a6ff;
+  text-decoration: none;
+}
+
 @media (max-width: 768px) {
   nav {
     display: none;
